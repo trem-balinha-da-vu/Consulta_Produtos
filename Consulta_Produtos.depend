@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1718901005 source:c:\users\izabe\desktop\consulta_produtos\consulta.c
+	<stdio.h>
+	"consulta.h"
+	"C:\\Users\\izabe\\Desktop\\Cria_arq_prod\\produtos.h"
+
+1718900184 c:\users\izabe\desktop\consulta_produtos\consulta.h
+
+1718899930 c:\users\izabe\desktop\cria_arq_prod\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produtos.h"
+
+1718899285 c:\users\izabe\desktop\cria_arq_prod\produtos.h
+
+1718901406 source:c:\users\izabe\desktop\consulta_produtos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"consulta.h"
+
+1718899285 c:\\users\\izabe\\desktop\\cria_arq_prod\\produtos.h
+
